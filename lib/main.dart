@@ -94,7 +94,7 @@ class _MyHomePageState extends State<MyHomePage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('GridView'),
+        title: const Text('Imam Nurhidayat'),
       ),
       body: GridView.count(
         primary: false,
